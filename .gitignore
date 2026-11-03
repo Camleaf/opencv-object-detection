@@ -1,6 +1,3 @@
-build
-bin
-.env
 .venv
-__pycache__
-vcpkg
+bin
+
