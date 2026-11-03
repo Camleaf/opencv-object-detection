@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "opencv-object-detection",
+  "description": "Detecting basic FRC game pieces",
+  "dependencies": [
+    {
+        "name":"opencv",
+        "version>=": "4.14.0"
+    }
+  ]
+}
